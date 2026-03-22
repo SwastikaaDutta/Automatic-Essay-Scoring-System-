@@ -61,7 +61,7 @@ st.markdown("""
 
 # App Logo & Branding
 # REPLACE THE URL BELOW WITH YOUR GITHUB IMAGE LINK
-logo_url = "https://github.com/SwastikaaDutta/Automatic-Essay-Scoring-System-/blob/main/logo-project.png" 
+logo_url = "https://raw.githubusercontent.com/SwastikaaDutta/Automatic-Essay-Scoring-System-/refs/heads/main/logo-project.png" 
 st.markdown(f'<img src="{logo_url}" class="logo-img">', unsafe_allow_html=True)
 
 st.markdown("<h1 style='text-align: center; color: #1A4D8F;'>EssayRater</h1>", unsafe_allow_html=True)
